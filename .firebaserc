@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "sitelab-angular"
+  },
+  "targets": {
+    "sitelab-angular": {
+      "hosting": {
+        "en": [
+          "sitelab-angular-en"
+        ],
+        "ua": [
+          "sitelab-angular-ua"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

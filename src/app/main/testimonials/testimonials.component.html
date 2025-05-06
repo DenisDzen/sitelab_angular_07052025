@@ -1,0 +1,100 @@
+<div class="container">
+    <div class="section-heading">
+        <h6 i18n>Наші спеціалісти</h6>
+        <h2 i18n>Що вони кажуть?</h2>
+    </div>
+
+    <owl-carousel-o [options]="customOptions">
+        <ng-template carouselSlide>
+            <div class="testimonials-box mb-3">
+                <div class="row gy-4">
+                    <div class="col-sm-7 col-lg-8">
+                        <div class="t-text">
+                            <p i18n>“Люди фіксують у пам'яті враження. Їм байдуже число показів оголошень”</p>
+                            <div class="t-lead">
+                                <h6 i18n>- Оля Федул</h6>
+                                <span i18n>Facebook Ads - реклама у соц мережах</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-lg-4">
+                        <div class="t-avatar">
+                            <img src="assets/img/fedyl.jpg" title="facebook ads settings" alt="facebook ads settings">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ng-template>  
+        <ng-template carouselSlide>
+            <div class="testimonials-box mb-3">
+                <div class="row gy-4">
+                    <div class="col-sm-7 col-lg-8">
+                        <div class="t-text">
+                            <p i18n>“ Без даних ви просто ще одна людина з власною думкою - Вільям Едвардс Демінг”</p>
+                            <div class="t-lead">
+                                <h6 i18n>- Денис Євгенович</h6>
+                                <span i18n>Веб-аналітика, Google ADS</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-lg-4">
+                        <div class="t-avatar">
+                            <img src="assets/img/petrov.jpg" title="setting up GA4 analytics" alt="setting up GA4 analytics">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ng-template>  
+        <ng-template carouselSlide>
+            <div class="testimonials-box mb-3">
+                <div class="row gy-4">
+                    <div class="col-sm-7 col-lg-8">
+                        <div class="t-text">
+                            <p i18n>“ Програмісти - це пристрої, що перетворюють кофеїн на код.”</p>
+                            <div class="t-lead">
+                                <h6 i18n>- Женя Мінаєв</h6>
+                                <span i18n>Програміст - розробка сайтів</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-lg-4">
+                        <div class="t-avatar">
+                            <img src="assets/img/minaev.jpg" title="web development specialist" alt="web development specialist">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ng-template>  
+        <ng-template carouselSlide>
+            <div class="testimonials-box mb-3">
+                <div class="row gy-4">
+                    <div class="col-sm-7 col-lg-8">
+                        <div class="t-text">
+                            <p i18n>“ Google захоче полюбити тебе після того, як ти сподобаєшся всім іншим”</p>
+                            <div class="t-lead">
+                                <h6 i18n>- Саша Куляєва</h6>
+                                <span i18n>СЕО-фахівець</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-lg-4">
+                        <div class="t-avatar">
+                            <img src="assets/img/kylyaeva.jpg" title="seo expert" alt="seo expert">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ng-template>
+      </owl-carousel-o>
+    <div class="testimonials-brand">
+        <owl-carousel-o [options]="customOptions2">
+            <ng-container *ngFor="let slide of slidesStore">
+                <ng-template carouselSlide>
+                        <div class="brand-box">
+                            <img [src]="slide.src" [alt]="slide.alt" [title]="slide.title">
+                        </div>
+                </ng-template>
+            </ng-container>
+        </owl-carousel-o>
+    </div>
+</div>

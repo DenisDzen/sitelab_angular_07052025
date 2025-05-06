@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="uk-UA" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="7022079258697736036" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;menu-item&quot;  spyOn=&quot;home&quot; activeClass=&quot;active&quot;  href=&quot;#home&quot; (click)=&quot;fullPageScroll(&apos;home&apos;)&quot;&gt;"/> Головна <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4008007011854116063" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;menu-item&quot; spyOn=&quot;about&quot; activeClass=&quot;active&quot;  href=&quot;#about&quot; (click)=&quot;fullPageScroll(&apos;about&apos;)&quot;&gt;"/> Про нас <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">31,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6458081280808570301" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;menu-item&quot;  spyOn=&quot;services&quot; activeClass=&quot;active&quot; href=&quot;#services&quot; (click)=&quot;fullPageScroll(&apos;services&apos;)&quot;&gt;"/> Послуги <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">36,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1167607059241207901" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;menu-item&quot; spyOn=&quot;work&quot; activeClass=&quot;active&quot;  href=&quot;#work&quot; (click)=&quot;fullPageScroll(&apos;work&apos;)&quot;&gt;"/> Кейси <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1463268327284819770" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;menu-item&quot;  spyOn=&quot;blog&quot; activeClass=&quot;active&quot; href=&quot;#blog&quot; (click)=&quot;fullPageScroll(&apos;blog&apos;)&quot;&gt;"/> Сайти <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">46,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7303794995750550705" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;menu-item&quot;  spyOn=&quot;contact&quot; activeClass=&quot;active&quot;  href=&quot;#contact&quot; (click)=&quot;fullPageScroll(&apos;contact&apos;)&quot;&gt;"/> Контакти <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">51,53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5048690984032772091" datatype="html">
+        <source>Раді знайомству!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3047775973919024272" datatype="html">
+        <source>Попрацюємо?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6293151514949508655" datatype="html">
+        <source>sitelab.com.ua</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="741344236494381670" datatype="html">
+        <source>Реклама •<x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/> Маркетинг • <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> Створення сайтів</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8798193911063605678" datatype="html">
+        <source>Агенція створена у 2018 року. Ми розробляємо сайти: лендінги, магазини, корпоративні сайти. Розробка та налаштування реклами у Facebook та Google: Merchant Center (торгова реклама), Performance Max, Пошукова реклама.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3472514154818343552" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;bi-map&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Харків, Україна<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2862488982371190284" datatype="html">
+        <source>Років<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/>досвіду...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="276860023127441402" datatype="html">
+        <source>Залучаємо клієнтів і збільшуємо продажі. Наш досвід і знання дають змогу створювати результативні стратегії просування, які працюють на вас. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">42,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5780771864666754792" datatype="html">
+        <source>Клієнтів<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/>в усьому світі...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5249603280201442947" datatype="html">
+        <source>Понад 150 клієнтів по всьому світу довіряють нам свій бізнес. Ми створюємо рекламу, що приносить результат.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6039940919391430591" datatype="html">
+        <source>“Не важливо, наскільки красива реклама - важливо, наскільки вона працює.”</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/about/about.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6748616000293454885" datatype="html">
+        <source>Кейси</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/blog/blog.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5812112817661262166" datatype="html">
+        <source>Створення сайтів</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/blog/blog.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1366437535747698511" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;px_modal&quot; data-bs-toggle=&quot;modal&quot; 
+                        data-bs-target=&quot;#blog_1&quot;&gt;"/>Магазин на Опенкарт<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/blog/blog.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/blog/blog.component.html</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6839361478907564685" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;px_modal&quot; data-bs-toggle=&quot;modal&quot; 
+                        data-bs-target=&quot;#blog_2&quot;&gt;"/>Лендінг на Вордресс<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/blog/blog.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1973988433562839850" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;px_modal&quot; data-bs-toggle=&quot;modal&quot; 
+                        data-bs-target=&quot;#blog_3&quot;&gt;"/>Магазин на Хорошоп<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/blog/blog.component.html</context>
+          <context context-type="linenumber">47,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7140323882914164985" datatype="html">
+        <source>Контакти</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1992465717677113130" datatype="html">
+        <source>Зв&apos;яжіться з нами</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5696405740818596476" datatype="html">
+        <source>Напишіть нам на пошту</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3424503198291859692" datatype="html">
+        <source>Наша пошта: <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-reset&quot; href=&quot;mailto:info@domainname.com&quot;&gt;"/>mailsitelab@gmail.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7444477206840160741" datatype="html">
+        <source>Напишіть нам в Телеграм</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3266214605983883039" datatype="html">
+        <source>Наш Телеграм: <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/><x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://t.me/sitelab_com_ua&quot; style=&quot;color: white;&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;"/>@sitelab_com_ua<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2818917705463792228" datatype="html">
+        <source>Подзвоніть до нас</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8904392468426440925" datatype="html">
+        <source>Наш телефон: <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/><x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;tel:+380502450565&quot; style=&quot;color: white;&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;"/>+380502450565<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="179084806671114498" datatype="html">
+        <source>Наша форма зворотнього зв&apos;язку.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4312277242127640443" datatype="html">
+        <source>Напишіть нам які у Вас є ідеї</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4298617870720348087" datatype="html">
+        <source>Ваше ім&apos;я</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5050324605729621770" datatype="html">
+        <source>Тема</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4043376398200529524" datatype="html">
+        <source>Ваше повідомлення</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2477857305830256639" datatype="html">
+        <source> Надіслати повідомлення</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/contact/contact.component.html</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7475515092858276450" datatype="html">
+        <source>Студія sitelab.com.ua</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6483830360026174723" datatype="html">
+        <source>Ми – рекламне агентство, яке допоможе вашому бізнесу зростати онлайн! Індивідуальний підхід, креативні рішення та орієнтація на результат – це те, що робить нас вашим надійним партнером у світі цифрового маркетингу.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4495196907967751747" datatype="html">
+        <source> Зв&apos;язатися з нами <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;bi-arrow-up-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/home/home.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3869516395208026869" datatype="html">
+        <source>Від 1000 гривень</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7773595668018628959" datatype="html">
+        <source>Wordpress/Opencart</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7811990548447565531" datatype="html">
+        <source>Facebook ADS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7397894324512197777" datatype="html">
+        <source>Реклама у Facebook</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2514693744861323109" datatype="html">
+        <source>Google ADS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6638463695493475416" datatype="html">
+        <source>Реклама у Google</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/experience/experience.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1539222691696845422" datatype="html">
+        <source>Реклама<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Маркетинг<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Створення сайтів<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/home/home.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4086212793420193237" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Студія sitelab.com.ua<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/home/home.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4637602282234021354" datatype="html">
+        <source>© 2025 Усі права захищені</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2943692410941661002" datatype="html">
+        <source>Опенкарт</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">357</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6411526637038965961" datatype="html">
+        <source>Переваги створення інтернет-магазину на OpenCart із шаблоном Deluxe та модулями автоматизації</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">358</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2851440536173114254" datatype="html">
+        <source>Переваги шаблону Deluxe:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">360</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5930682253862570514" datatype="html">
+        <source>Шаблон Deluxe — це потужне рішення для інтернет-магазинів на OpenCart, яке забезпечує не лише стильний дизайн, а й зручність використання для власників магазину та покупців.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">361</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5979495651739558358" datatype="html">
+        <source> Сучасний адаптивний дизайн <x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Ідеально відображається на всіх пристроях, включаючи смартфони та планшети.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Зручний інтерфейс підвищує комфорт покупців і знижує рівень відмов.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Гнучкі налаштування дозволяють підлаштувати магазин під будь-який бренд.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">72,78</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">364,370</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5140877227170644629" datatype="html">
+        <source> Висока продуктивність <x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Оптимізований код зменшує навантаження на сервер і пришвидшує завантаження сторінок.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Покращені показники Google PageSpeed сприяють вищим позиціям у пошуковій видачі.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Легка та зручна навігація для швидкої взаємодії користувачів із сайтом.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">81,87</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">373,379</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8010117235634143745" datatype="html">
+        <source> Гнучкі налаштування та функціональність <x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Можливість налаштування різних типів меню, банерів та блоків для зручної навігації.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Підтримка кількох варіантів відображення карток товарів у категоріях.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/>Зрозумілий адмін-інтерфейс для швидкого налаштування без знань програмування.<x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">90,96</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">382,388</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6380611031495277363" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Автоматизація завантаження та оновлення товарів<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">392</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2566379472609218407" datatype="html">
+        <source>Автоматизація керування товарним каталогом — ключ до ефективного ведення інтернет-магазину. Для цього використовуються потужні модулі:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">393</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2428960987296198051" datatype="html">
+        <source>Автоматична обробка прайс-листів</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">397</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1113715172602352655" datatype="html">
+        <source>Цей модуль спрощує додавання та оновлення товарів. Основні переваги:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">398</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6991570090834089841" datatype="html">
+        <source>Підтримка імпорту даних з Excel і CSV.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">400</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4334750055597670733" datatype="html">
+        <source>Гнучкі налаштування націнок, автоматичної фільтрації та оновлення цін.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">401</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8338052980025602067" datatype="html">
+        <source>Автоматичне зіставлення товарів із базою OpenCart, що прискорює роботу магазину.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">402</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7647150946533167345" datatype="html">
+        <source>SP Fast XML Feed (UnixML)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">407</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4488761573437889585" datatype="html">
+        <source>Модуль для експорту товарів у форматі XML, що важливо для роботи з маркетплейсами та агрегаторами цін:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">408</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9137031334864114902" datatype="html">
+        <source>Гнучка система фільтрації товарів при експорті.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">410</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5824775618007397759" datatype="html">
+        <source>Підтримка популярних маркетплейсів та агрегаторів.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">411</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6135854088175735692" datatype="html">
+        <source>Висока швидкість генерації XML навіть для великих каталогів.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">412</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3933944377566285488" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Додаткові модулі для зручності та маркетингу<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">417</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="368873592520198891" datatype="html">
+        <source>Розширені відгуки з фото та відео</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">421</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6006270132471111945" datatype="html">
+        <source>Цей модуль дозволяє покупцям залишати відгуки з фото та відео, що підвищує довіру до магазину та сприяє зростанню конверсії.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">422</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1019934961650943721" datatype="html">
+        <source>Модуль інтеграції з Новою Поштою</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">426</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4529935565178363021" datatype="html">
+        <source>Автоматизує доставку через &quot;Нову Пошту&quot;, дозволяючи покупцям швидко вибирати зручні пункти видачі або адресну доставку.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">427</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7939954419474544554" datatype="html">
+        <source>Google GA-4 аналітика</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">431</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4010004050678775594" datatype="html">
+        <source>Інтеграція з Google Analytics 4 і Tag Manager для аналізу поведінки користувачів, ефективності реклами та оптимізації продажів.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">432</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4379241882751274607" datatype="html">
+        <source>Оформлення замовлення та реєстрація (Simple)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">436</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7864726066935785409" datatype="html">
+        <source>Цей модуль спрощує процес оформлення замовлення, дозволяючи покупцям швидко завершувати покупку без зайвих кроків, що зменшує кількість покинутих кошиків.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">437</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7652037983883011568" datatype="html">
+        <source>Використання шаблону Deluxe та модулів автоматизації робить інтернет-магазин не лише зручним для клієнтів, а й легким в управлінні.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">441</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="217388736529778250" datatype="html">
+        <source>Основні переваги:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">443</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6692334510737031368" datatype="html">
+        <source>Швидке налаштування та запуск магазину.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">446</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="390348949778972421" datatype="html">
+        <source>Зручний інтерфейс, що підвищує конверсію.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">447</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7564668344853592450" datatype="html">
+        <source>Автоматизація процесів завантаження та експорту товарів.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">448</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8530005119116737280" datatype="html">
+        <source>Інтеграція з аналітикою, логістикою та відгуками для максимального комфорту клієнтів.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">449</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5656542462368089339" datatype="html">
+        <source>Оптимізована робота магазину без зайвого навантаження на сервер.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">450</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3859155468508029927" datatype="html">
+        <source>Обираючи OpenCart із Deluxe та модулями автоматизації, ви отримуєте готове рішення для швидкого та успішного запуску інтернет-бізнесу.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">453</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6847354278222971222" datatype="html">
+        <source>Поділитися</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">273</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">320</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">456</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">534</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">641</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">706</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">778</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4943155219490653714" datatype="html">
+        <source>Вордпресс</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">201</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4770963664681392667" datatype="html">
+        <source>Переваги створення сайту на WordPress</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6991618098244220081" datatype="html">
+        <source> Сьогодні WordPress є однією з найпопулярніших платформ для створення сайтів. Його вибирають мільйони користувачів по всьому світу завдяки зручності, гнучкості та широкому функціоналу. Основні переваги створення сайту на WordPress, особливо якщо використовувати перевірені плагіни, такі: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">204,208</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2059630774158526761" datatype="html">
+        <source>SEO-оптимізація з Yoast SEO</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">212</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3810458415685296739" datatype="html">
+        <source> SEO — один з найважливіших факторів успіху сайту. Плагін Yoast SEO допомагає налаштувати оптимальні параметри SEO, створюючи мета-теги, XML-карти сайту, оптимізуючи структуру контенту та даючи рекомендації по покращенню пошукової видимості. Завдяки цьому ваш сайт буде краще ранжуватися в пошукових системах. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">213,217</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="113760612137867283" datatype="html">
+        <source>Контроль битих посилань з Broken Link Checker</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">221</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6244431079318990811" datatype="html">
+        <source> Биті посилання негативно впливають на користувацький досвід та SEO. Плагін Broken Link Checker автоматично сканує сайт та виявляє не працюючі посилання, допомагаючи своєчасно виправляти помилки та підтримувати сайт у хорошому стані. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">222,226</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="177833108485866237" datatype="html">
+        <source>Зручні форми зворотного зв&apos;язку з WPForms</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">230</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5350974310664426759" datatype="html">
+        <source> Контактні форми — це важливий елемент взаємодії з відвідувачами. Плагін WPForms дозволяє легко створювати зручні форми з можливістю кастомізації, забезпечуючи простий спосіб зв&apos;язку з клієнтами без необхідності програмування. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">231,235</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2769117070870518047" datatype="html">
+        <source>Прискорення завантаження з LiteSpeed Cache</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">239</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7642437165124565268" datatype="html">
+        <source> Швидкість завантаження сайту безпосередньо впливає на поведінкові фактори та SEO. Плагін LiteSpeed Cache допомагає значно прискорити сайт завдяки кешуванню сторінок, оптимізації зображень та інших інструментів для покращення продуктивності. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">240,244</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1563679529280863161" datatype="html">
+        <source>Інтеграція з соціальними мережами за допомогою Smash Balloon Social Post Feed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6254638941223399242" datatype="html">
+        <source> Соціальні мережі відіграють важливу роль в залученні аудиторії. Плагін Smash Balloon Social Post Feed дозволяє відображати стрічку з Facebook на сайті, підвищуючи залученість користувачів та збільшуючи охоплення контенту. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">249,252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5484840194246179427" datatype="html">
+        <source>Аналітика та відстеження трафіку з Google Analytics</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2966445424778313338" datatype="html">
+        <source> Аналіз відвідуваності — це ключ до успішного розвитку сайту. Плагін Google Analytics дає можливість відстежувати поведінку користувачів, джерела трафіку та інші важливі метрики, що допомагає оптимізувати маркетингову стратегію. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">257,261</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4323240988255569533" datatype="html">
+        <source> WordPress надає потужний функціонал для створення сучасних сайтів, а правильний вибір плагінів робить платформу ще зручнішою та ефективнішою. Використовуючи інструменти для SEO, контролю битих посилань, форм зворотного зв&apos;язку, кешування, інтеграції з соціальними мережами та аналітики, ви отримаєте не тільки красивий, а й функціональний сайт, готовий до росту та розвитку. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">265,269</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6528498116228856299" datatype="html">
+        <source>Хорошоп</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">310</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="606054957171379453" datatype="html">
+        <source>Створення інтернет-магазинів</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">311</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1144748331302804481" datatype="html">
+        <source>Хорошоп — це сучасна ukraine платформа та сукупність послуг із запуску інтернет-магазинів. Але не безкоштовна, ціни від 240 гривень на місяць до 2800 гривень на місяць. Головний мінус, що Ви не володієте своїм магазином, у будь-який момент його можуть &quot;знести&quot; за порушення правил чи зовсім без пояснення причин.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">312,313</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2421864221982027353" datatype="html">
+        <source>В Хорошопі реалізовано інтеграції з низкою популярних сервісів, необхідних для автоматизації процесів вашого бізнесу: маркетплейсами, сервісами оплати, службами доставки, обліковими системами, CRM тощо </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">314,316</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7027751021905957276" datatype="html">
+        <source>Хорошоп розробили та впровадили інструменти, що спрощують просування магазинів в інтернеті</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">317</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2006131985275834451" datatype="html">
+        <source>Шафи-купе: як отримати виторг у 10000$ при витратах 383$</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">498</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3975662407137150963" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Клієнт:<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> GuteHouze<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">499</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5635790941330992165" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Мета:<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> Збільшити продажі шаф-купе і знизити вартість залучення клієнта (CAC).<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">500</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3465269783042712598" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Що ми зробили:<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Налаштували пошукову рекламу в Google, всього 15 рекламних кампаній, які підрозділялися на ті, що продають, загальні, конкурентні та навколоцільові. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">502,503</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1666681787683932508" datatype="html">
+        <source> Після відпрацьованого тестового періоду, було проведено глибоку аналітику: <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">506</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9177037900299193285" datatype="html">
+        <source>проведено пост-клік аналіз,</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">509</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="535243637442860530" datatype="html">
+        <source>проаналізовано ефективність усіх рекламних кампаній:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">510</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3535243783626594201" datatype="html">
+        <source>покази, </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">511</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4197106026177066002" datatype="html">
+        <source>переходи, </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">512</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8827581220308460016" datatype="html">
+        <source>CTR, </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">513</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8566038305810278923" datatype="html">
+        <source>середня позиція,</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">514</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2309574320861642075" datatype="html">
+        <source>залученість,</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">515</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="984785655656806815" datatype="html">
+        <source>розподіл кліків за днями тижня, часом доби тощо.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">516</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2724773196186593961" datatype="html">
+        <source>перевірені пошукові запити, за якими були переходи на сайт з контекстної реклами, </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">517</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2240223660645434394" datatype="html">
+        <source>виявлено нові мінус-слова і додано в кампанії,</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">518</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="297556005858677490" datatype="html">
+        <source>проаналізовано поведінкові фактори відвідувачів (відмови, тривалість сесії, кількість відкритих сторінок, досягнення цілей, конверсії). </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">519</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="158851804332786999" datatype="html">
+        <source>Усе це дало змогу перерозподілити бюджети між кампаніями, внести зміни та призупинити неефективні рекламні кампанії. «Пост-клік аналіз - вивантаження пошукових запитів, аналіз яких дає змогу додати нові ключові слова до рекламних кампаній, а також відмінусувати нецільові запити й не витрачати гроші даремно.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Результат<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Незважаючи на високу конкуренцію в тематиці ми домоглися того, що вже з другого місяця контекстна реклама не просто допомогла збільшити продажі, вона багаторазово окупилася! Так, за квітень тільки за контекстною рекламою було отримано виручку на суму <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>9 997$ за рекламного бюджету всього 383$<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">522,531</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5394186569610113877" datatype="html">
+        <source>$38 346 за місяць при витратах $2427</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">572</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2210970133212640055" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Клієнт<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Компанія-лідер у виробництві одягу, білизни, панчішно-шкарпеткових виробів у Східній Європі (торгові марки Conte Elegant™, DiWaRi™, Conte Kids™).<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Завдання<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Завдання клієнта - отримати продажі з контексту з поверненням інвестицій в рекламу (ROAS) не менше 1000%, тобто витрати повинні окупитися в кілька сотень разів. ROAS (Return On Ad Spend) від англ. «повернення на рекламні витрати». Показник демонструє рентабельність інвестицій у рекламу та застосовується для вимірювання ефективності кампаній, груп або окремих оголошень. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">575,581</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7877355989881951463" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Робота над проектом<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Першим етапом у роботі за проєктом була перевірка коректності налаштування Розширеної електронної торгівлі в Google Analytics, а також створення списків аудиторії ремаркетингу.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Перше було необхідно для впевненості в коректному розрахунку ефективності рекламних кампаній. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Друге ж - для можливості задіяти механіки повернення відвідувачів, які здійснили дотик із сайтом, але не оформили кошик.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>У проєкті було задіяно такі інструменти:<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Інструмент №1. Контекстна реклама в пошуку Google.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Для охоплення гарячого попиту було налаштовано пошукову контекстну рекламу. До її складу увійшли 116 кампаній, що продають, та 104 загальних. Це дало змогу отримати потенційних клієнтів одразу після запуску реклами. Велика кількість рекламних кампаній пояснюється дробленням цільової аудиторії за теплотою попиту (тобто готовності до купівлі) на гарячий, теплий та холодний сегмент. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Інструмент №2. Динамічні пошукові кампанії в Google<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Динамічні рекламні кампанії - це тип кампаній, що дає змогу охопити велику кількість потенційних клієнтів у пошуку завдяки аналізу та підбору ключових слів пошуковою системою Google в автоматичному режимі. Динамічні кампанії показуються за запитами, які тісно пов&apos;язані зі змістом сайту: заголовками та часто використовуваними фразами. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Google використовує технології машинного навчання, щоб вибрати цільову сторінку та показати кожному конкретному користувачеві «інформативний та релевантний заголовок оголошення». До переваг інструменту належать: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">584,605</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1122150243073506088" datatype="html">
+        <source>Відсутність необхідності ручного підбору ключових слів.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">608</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8086144478470691990" datatype="html">
+        <source>Ширше охоплення завдяки показам за тисячами унікальних низькочастотних ключових слів, підібраних штучним інтелектом Google.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">609</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5455972413031441317" datatype="html">
+        <source>При пошуку Вашого товару або послуги Google Ads автоматично створює оголошення з релевантним заголовком та підбирає для нього потрібну цільову сторінку.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">610</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4014117536020267140" datatype="html">
+        <source>Можливість залучити більше трафіку та збільшити обсяг продажів завдяки нижчій ціні за клік.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">611</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5996910859457315339" datatype="html">
+        <source>Динамічні рекламні кампанії - чудове рішення для інтернет-магазинів з великою кількістю SKU (Stock Keeping Unit). </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">612</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9114602603635139615" datatype="html">
+        <source>Інструмент №3. Розумні торгові рекламні кампанії Google Merchant<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Розумні торгові кампанії використовують алгоритми машинного навчання Google, які аналізують фід товарів та показують оголошення в пошуку та контекстно-медійній мережі. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Система автоматично створює оголошення на основі наявних у фіді товарів, їхніх цін та зображень, після чого показує найрелевантніші варіанти. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">615,619</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5391996277618224581" datatype="html">
+        <source>Інструмент №4. Динамічний ремаркетинг.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Коли відвідувач сайту виконує дію, визначену як мета, вона реєструється в Google Analytics. Це дає змогу повернути користувачів, які заходили на сайт, але не виконали ключову дію. Тобто в даному випадку не зробили покупку. За допомогою такої механіки можна повернути на сайт тих, хто додав товар у кошик, але з якихось причин не оформив замовлення. Причому користувач у рекламі буде бачити не просто довільні товари, а саме ті товари, які він дивився, або які залишив у кошику.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Результат<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">621,627</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3503917266027130343" datatype="html">
+        <source>Кількість транзакцій - 1033</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">631</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4125254222681888395" datatype="html">
+        <source>Ціна за транзакцію - 2.35$</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">632</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2981420258688100604" datatype="html">
+        <source>Середній чек склав - 37.12$</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">633</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8825525116668328485" datatype="html">
+        <source>Витрати на рекламу - 2427$</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">634</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9003967871948255026" datatype="html">
+        <source>Загальна виручка склала - 38 346$</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">635</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8664831832385626797" datatype="html">
+        <source>Рентабельність інвестицій у рекламу доведено до рівня 1 581%</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">636</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3638432490478237082" datatype="html">
+        <source>1538 заявок у ніші кухонь на замовлення з окупністю &gt; Х43</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">679</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2789976701016804356" datatype="html">
+        <source>Клієнтка прийшла із запитом знизити вартість за заявку з реклами та збільшити кількість договорів.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Шо було:<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - невеликий (порівняно з конкурентами) акаунт на 1050 осіб, не упакований, сторіс практично не ведуться;<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - дорогі заявки 6-20$;<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - мало договорів; <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Шо зробили:<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - надано рекомендації щодо пакування профілю та ведення, ТЗ для зйомки;<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - проведено аналіз цільової аудиторії та конкурентів, складено стратегію просування;<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - створено велику кількість макетів з різним підходом, щоб знайти зв&apos;язку, яка буде приносити максимальну кількість заявок за найменшою вартістю та водночас з високою окупністю;<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> - опрацьовано скрипти продажів;<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">680,693</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7192016575101098492" datatype="html">
+        <source>Детально вивчивши цільову аудиторію та конкурентів, склавши стратегію просування, ми запустили рекламу.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Щодня ми отримували заявки на прорахунок вартості кухонь з реклами та вітальних повідомлень, які ми так само впровадили в роботу з метою підвищення конверсії в прорахунок вартості.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Тестували різні види макетів, які виділяли нас на тлі конкурентів.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> У підсумку за рік роботи ми отримали 1538 заявок середньою вартістю 4,6$. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Середній чек на кухню 2000$. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> Окупність проєкту склала понад 4300%.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">696,702</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8179795243913061313" datatype="html">
+        <source>1 306 заявок до студії стрейчингу за 1,88$</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">744</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7039001116018250925" datatype="html">
+        <source>Трафік йшов на лід-форму (форма збору заявок):</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">746</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7639764845728209177" datatype="html">
+        <source> Період - 84 дні (майже 3 місяці)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">749</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8744638587455099958" datatype="html">
+        <source> Витрачено - 2455,06 $<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">750</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="310064355711449280" datatype="html">
+        <source> Отримано - 1 306 заявок</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">752</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6961642632258073147" datatype="html">
+        <source> Середня ціна заявки (CPL) = 1,88 $.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">753</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6588989964431256782" datatype="html">
+        <source> Конверсія в запис - 92,95%</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">755</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5463937081029728889" datatype="html">
+        <source> Записалися на пробне - 1 214 дівчат</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">756</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8059871232845921093" datatype="html">
+        <source> Ціна за запис на пробне = 2,02 $.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">757</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7391417012778339169" datatype="html">
+        <source> Прибутковість - 87,14%</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">759</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2023718636277172789" datatype="html">
+        <source> Прийшли на пробне - 1058 дівчат</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">760</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2053144131167972337" datatype="html">
+        <source> Вартість за відвідувача пробного = 2,32 $.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">761</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5892486436314878235" datatype="html">
+        <source> Вартість пробного заняття = 4 $.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">762</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4577342030765709006" datatype="html">
+        <source> Конверсія в продаж абонемента - 74,19%</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">764</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5294227925465887333" datatype="html">
+        <source> Купили абонемент - 785 дівчат</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">765</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="820825102129396442" datatype="html">
+        <source> Вартість клієнта, що купив абонемент - 3,13 $.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">766</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6906385007301395017" datatype="html">
+        <source> Продано абонементів на 59907,82 $.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">768</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1296820279400823502" datatype="html">
+        <source> Дохід студії з вирахуванням витрат на рекламу = 57452,76 $<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">769</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1275833775821277600" datatype="html">
+        <source> Окупність витрат на рекламу (ROAS) - 2 440,18%.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">771</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3549519440159784410" datatype="html">
+        <source>Тобто, кожен вкладений долар у рекламу, повернувся у 24-ти кратному розмірі.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">774</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4771297836703262927" datatype="html">
+        <source>Послуги</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="888671069966583759" datatype="html">
+        <source>Шо робимо?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2295090287516191266" datatype="html">
+        <source>Розробка сайтів: лендінги, інтернет-магазини, корпоративні сайти</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7735399628620089262" datatype="html">
+        <source>Наша агенція спеціалізується на створенні сучасних та ефективних сайтів на WordPress та OpenCart. Ми розробляємо:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2769529437550836724" datatype="html">
+        <source>Лендінги - односторінкові сайти, які приваблюють клієнтів та збільшують конверсії.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1115102656856941449" datatype="html">
+        <source>Інтернет-магазини - потужні та зручні рішення для онлайн-продажів зі зручною CMS та адаптивним дизайном.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9078975122784380097" datatype="html">
+        <source>Корпоративні сайти - професійні сайти для бізнесу, які підвищують довіру та допомагають залучати клієнтів.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7473699913576963656" datatype="html">
+        <source>Ми розробляємо сайти під ключ, забезпечуємо якісний дизайн, адаптивність, SEO-оптимізацію та підтримку.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1774080959538353887" datatype="html">
+        <source>Google ads</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7069171080817783765" datatype="html">
+        <source>Налаштування реклами Google ADS під ключ</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4277456393346179000" datatype="html">
+        <source>Ми створюємо ефективні кампанії в Google Ads, Merchant Center (торгова реклама), Performance Max, Пошукова реклама та YouTube, щоб ви отримували клієнтів, які шукають ваші товари чи послуги.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3965084252737328076" datatype="html">
+        <source>Наш підхід включає глибокий аналіз аудиторії, точний таргетинг, оптимізацію бюджету та постійний моніторинг для максимальної конверсії. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5793850811506576528" datatype="html">
+        <source>Ви отримуєте збільшення продажів, прозорі звіти та контроль витрат – платите тільки за результативні кліки. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8182568755674632970" datatype="html">
+        <source>Замовляйте налаштування реклами – та залучайте клієнтів уже сьогодні!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2591949309384486242" datatype="html">
+        <source>Facebook ads</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3036391647131061911" datatype="html">
+        <source>Налаштування реклами Facebook ADS під ключ</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6289974862526235104" datatype="html">
+        <source>Хочете залучити більше клієнтів через Facebook? Наше агентство пропонує професійне налаштування та ведення реклами у Facebook для бізнесу.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6082728878253371548" datatype="html">
+        <source>Створення та оптимізація рекламних кампаній – налаштовуємо таргетинг, підбираємо аудиторію та оптимізуємо бюджети. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">89,90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3110053290076556165" datatype="html">
+        <source>Розробка креативів – створюємо привабливі банери та тексти, що підвищують клікабельність. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5176551752000865906" datatype="html">
+        <source>Аналітика та покращення результатів – аналізуємо ефективність реклами та вносимо коригування для підвищення конверсій. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">91,92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3851615886311531071" datatype="html">
+        <source>Ми допоможемо вам отримати максимальний результат від реклами у Facebook та збільшити продажі!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2104476966987682640" datatype="html">
+        <source>Аналітика</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5683448497418954346" datatype="html">
+        <source>Безкоштовне налаштування аналітики (GA4 &amp; GTM)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5167402049208074273" datatype="html">
+        <source>Допомагаємо бізнесу отримувати точні дані та ефективно використовувати маркетингові інструменти. Наші послуги з налаштування аналітики включають:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2073323452308927930" datatype="html">
+        <source>Налаштування Google Analytics 4 (GA4) – збір та аналіз даних про поведінку користувачів на сайті.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4127093516903703370" datatype="html">
+        <source>Налаштування Google Tag Manager (GTM) – зручне керування тегами без змін у коді сайту.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6263634356153260208" datatype="html">
+        <source>Налаштування цілей та подій – відстеження конверсій, натискань кнопок, заповнення форм та інших важливих дій.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2112379468711940302" datatype="html">
+        <source>Аудит аналітики – перевірка коректності роботи GA4 та GTM, виправлення помилок.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="817927498388514243" datatype="html">
+        <source>Інтеграція з рекламними системами – налаштування аналітики для ефективного відстеження реклами.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="742752313703736489" datatype="html">
+        <source>Отримуйте точні дані та приймайте зважені рішення для зростання вашого бізнесу!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/services/services.component.html</context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4902237048453782437" datatype="html">
+        <source>Наші спеціалісти</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9191601190752292376" datatype="html">
+        <source>Що вони кажуть?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1534170053378763185" datatype="html">
+        <source>“Люди фіксують у пам&apos;яті враження. Їм байдуже число показів оголошень”</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6187330266026805480" datatype="html">
+        <source>- Оля Федул</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2388291065944238578" datatype="html">
+        <source>Facebook Ads - реклама у соц мережах</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7991968409481556082" datatype="html">
+        <source>“ Без даних ви просто ще одна людина з власною думкою - Вільям Едвардс Демінг”</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8729243261950381869" datatype="html">
+        <source>- Денис Євгенович</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9063242810876263330" datatype="html">
+        <source>Веб-аналітика, Google ADS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="55153957483059431" datatype="html">
+        <source>“ Програмісти - це пристрої, що перетворюють кофеїн на код.”</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5376202348167511030" datatype="html">
+        <source>- Женя Мінаєв</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9113403592721938626" datatype="html">
+        <source>Програміст - розробка сайтів</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3597819871504288115" datatype="html">
+        <source>“ Google захоче полюбити тебе після того, як ти сподобаєшся всім іншим”</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2318969830550681014" datatype="html">
+        <source>- Саша Куляєва</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5302210649666087362" datatype="html">
+        <source>СЕО-фахівець</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/testimonials/testimonials.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7323452228420499803" datatype="html">
+        <source>Рекламні проєкти</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6812284641809753415" datatype="html">
+        <source>Google Ads</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1282065243973775493" datatype="html">
+        <source> Як отримати 10000$ при витратах 383$ </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2062293759570745493" datatype="html">
+        <source> Заробили $38 346 за місяць на одязі </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">35,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4976788029723083805" datatype="html">
+        <source>Facebook Ads</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4894628279542576905" datatype="html">
+        <source> 1538 заявок у ніші кухонь на замовлення </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">54,56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="437479289267331428" datatype="html">
+        <source> 1 306 заявок до студії стрейчингу за 1,88$ </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/work/work.component.html</context>
+          <context context-type="linenumber">73,75</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,87 @@
+<div class="container">
+    <div class="row gy-5">
+        <div class="col-lg-5">
+            <div class="section-heading">
+                <h5 i18n>Контакти</h5>
+                <h2 i18n>Зв'яжіться з нами</h2>
+            </div>
+            <div class="contact-info">
+                <ul>
+                    <li>
+                        <div class="icon">
+                            <i class="bi bi-envelope"></i>
+                        </div>
+                        <div class="text">
+                            <label i18n>Напишіть нам на пошту</label>
+                            <p i18n>Наша пошта:  <span><a class="text-reset" href="mailto:info&#64;domainname.com">mailsitelab&#64;gmail.com</a></span></p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon">
+                            <i class="bi bi-telegram"></i>
+                        </div>
+                        <div class="text">
+                            <label i18n>Напишіть нам в Телеграм</label>
+                            <p i18n>Наш Телеграм:  <span><a href="https://t.me/sitelab_com_ua" style="color: white;" target="_blank" rel="noopener noreferrer nofollow">&#64;sitelab_com_ua</a></span></p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon">
+                            <i class="bi-phone"></i>
+                        </div>
+                        <div class="text">
+                            <label i18n>Подзвоніть до нас</label>
+                            <p i18n>Наш телефон:  <span><a href="tel:+380502450565" style="color: white;" target="_blank" rel="noopener noreferrer nofollow">+380502450565</a></span></p>
+                        </div>
+                    </li>
+                </ul>
+                <div class="google-map">
+                    <div class="ratio ratio-21x9">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12200.61598174806!2d36.240014053378424!3d49.99516741700048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a1833325e491%3A0x3313f5718d5a62d0!2z0JPQvtGA0L7QtNGB0LrQvtC5INGB0LDQtCDQuNC80LXQvdC4INCi0LDRgNCw0YHQsCDQqNC10LLRh9C10L3QutC-!5e0!3m2!1sru!2sua!4v1743687046209!5m2!1sru!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-7 ps-xl-5">
+            <div class="contact-form bg-g">
+                <div class="contact-head">
+                    <h4 i18n>Наша форма зворотнього зв'язку.</h4>
+                    <p i18n>Напишіть нам які у Вас є ідеї</p>
+                </div>
+                <form id="contact-form" method="POST">
+                    <div class="row gx-3 gy-4">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label i18n class="form-label">Ваше ім'я</label>
+                                <input name="Name" id="name" placeholder="Name *" class="form-control" type="text">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-label">Email</label>
+                                <input name="Email" id="email" placeholder="Email *" class="form-control" type="email">
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-group">
+                                <label i18n class="form-label">Тема</label>
+                                <input name="Subject" id="subject" placeholder="Subject *" class="form-control" type="text">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label i18n class="form-label">Ваше повідомлення</label>
+                                <textarea name="message" id="message" placeholder="Your message *" rows="6" class="form-control"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="send">
+                                <button i18n class="px-btn dark w-100" type="button" (click)="sendToTelegram()"> Надіслати повідомлення</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

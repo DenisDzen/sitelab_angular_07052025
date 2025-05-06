@@ -1,0 +1,86 @@
+<!-- Mob header -->
+<div class="mob-header">
+    <div class="mob-h-left">
+      <a class="navbar-brand" href="javascript:"></a>
+    </div>
+  
+    <div class="mob-h-right" (clickOutside)="onClickedOutside($event)">
+      <!-- Language switcher (mobile) -->
+      <div class="lang-switch-mobile">
+        <button (click)="switchLang('uk')" [class.active]="currentLang === 'uk'">
+          <img src="assets/flags/ua.svg" alt="UA" />
+        </button>
+        <button (click)="switchLang('en')" [class.active]="currentLang === 'en'">
+          <img src="assets/flags/en.svg" alt="EN" />
+        </button>
+      </div>
+  
+      <!-- Burger -->
+      <button class="toggler-menu" [ngClass]="{'open': sidebarOpen}" (click)="toggleMenu()">
+        <span></span>
+      </button>
+    </div>
+  </div>
+
+<!-- End -->
+<!-- Header Top -->
+<div class="header-left-fixed one-page-nav" [ngClass]="{'menu-open menu-open-desk' : sidebarOpen}">
+    <!-- Brand -->
+    <div class="logo">
+        <a class="navbar-brand" href="javascript:">
+          
+        </a>
+
+        <div class="lang-switch-desktop">
+            <button (click)="switchLang('uk')" [class.active]="currentLang === 'uk'">
+              <img src="assets/flags/ua.svg" alt="UA" width="24" height="16" />
+            </button>
+            <button (click)="switchLang('en')" [class.active]="currentLang === 'en'">
+              <img src="assets/flags/en.svg" alt="EN" width="24" height="16" />
+            </button>
+          </div>
+
+    </div>
+    <!-- / -->
+    <ul class="main-menu">
+        <li i18n>
+            <a class="menu-item"  spyOn="home" activeClass="active"  href="#home" (click)="fullPageScroll('home')">
+                Головна
+            </a>
+        </li>
+        <li i18n>
+            <a class="menu-item" spyOn="about" activeClass="active"  href="#about" (click)="fullPageScroll('about')"> 
+                Про нас
+            </a>
+        </li>
+        <li i18n>
+            <a class="menu-item"  spyOn="services" activeClass="active" href="#services" (click)="fullPageScroll('services')">
+                Послуги
+            </a>
+        </li>
+        <li i18n>
+            <a class="menu-item" spyOn="work" activeClass="active"  href="#work" (click)="fullPageScroll('work')">
+                Кейси
+            </a>
+        </li>
+        <li i18n>
+            <a class="menu-item"  spyOn="blog" activeClass="active" href="#blog" (click)="fullPageScroll('blog')">
+                Сайти
+            </a>
+        </li>
+        <li i18n>
+            <a class="menu-item"  spyOn="contact" activeClass="active"  href="#contact" (click)="fullPageScroll('contact')">
+                Контакти
+            </a>
+        </li>
+    </ul>
+    <ul class="nav social-link">
+        <li>
+            <a href="javascript:void(0)" onclick="window.open('https://www.instagram.com/leon_denisss/', '_blank')"><i class="fab fa-instagram"></i></a>
+        </li>
+        <li>
+            <a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/profile.php?id=61573732252303')"><i class="fab fa-facebook"></i></a>
+        </li>
+    </ul>
+</div>
+<!-- End Header Top -->

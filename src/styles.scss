@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+/*------------------------------------------------------------------
+Project:    Lilon Personal Portfolio
+Version:    1.0
+Primary use:    pxdraft
+
+[Table of contents]
+
+1. Body
+2. Header
+3. Footer
+4. Blog
+5. Section
+6. Home Banner
+7. About
+8. Services
+9. Portfolio
+10. Testimonial
+11. Contact Us
+
+-------------------------------------------------------------------*/
+/* Глобальные стили и CSS-библиотеки (оставляем @import) */
+@import "assets/vendor/bootstrap/icons/bootstrap-icons.css";
+@import "assets/vendor/font-awesome/css/all.min.css";
+
+/* SCSS-файлы (меняем на @use) */
+@use "assets/scss/variable" as *;  // или "as vars"
+@use "assets/scss/mixin" as *;     // или "as mix"
+@use "assets/scss/root";
+@use "assets/scss/header";
+@use "assets/scss/footer";
+@use "assets/scss/button";
+@use "assets/scss/color";
+@use "assets/scss/base";
+@use "assets/scss/style";
+
